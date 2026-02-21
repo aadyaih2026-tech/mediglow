@@ -1,0 +1,8 @@
+{
+  "name": "Mediglow Prototype",
+  "short_name": "Mediglow",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Mediglow — Cosmetic & Medicine safety analysis prototype"
+}

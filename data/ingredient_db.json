@@ -1,0 +1,9 @@
+{
+  "water": {"name":"Water","purpose":"Solvent","benefits":"Hydration base","side_effects":"None","comedogenic":0,"irritation":"Low","regulatory":[]},
+  "glycerin": {"name":"Glycerin","purpose":"Humectant","benefits":"Hydrates skin","side_effects":"Rare irritation","comedogenic":0,"irritation":"Low","regulatory":[]},
+  "parfum": {"name":"Fragrance","purpose":"Fragrance","benefits":"Scent","side_effects":"Allergic reactions in sensitive users","comedogenic":0,"irritation":"High","regulatory":["fragrance"]},
+  "retinol": {"name":"Retinol","purpose":"Vitamin A derivative","benefits":"Anti-aging, increases cell turnover","side_effects":"Irritation, photosensitivity","comedogenic":0,"irritation":"High","regulatory":["retinoid"]},
+  "salicylic acid": {"name":"Salicylic Acid","purpose":"BHA exfoliant","benefits":"Exfoliates, anti-acne","side_effects":"Irritation at high concentration","comedogenic":0,"irritation":"Medium","regulatory":["beta_hydroxy_acid"]},
+  "methylparaben": {"name":"Methylparaben","purpose":"Preservative","benefits":"Prevents microbial growth","side_effects":"Low allergy potential","comedogenic":0,"irritation":"Low","regulatory":["paraben"]},
+  "sodium lauryl sulfate": {"name":"Sodium Lauryl Sulfate","purpose":"Surfactant/cleanser","benefits":"Cleansing","side_effects":"Can dry and irritate","comedogenic":0,"irritation":"High","regulatory":["sulfate"]}
+}
